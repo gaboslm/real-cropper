@@ -2,9 +2,11 @@
   "name": "real-cropper",
   "version": "1.0.2",
   "description": "A library that actually works for image cropping",
-  "files":["dist"],
-  "main":"./dist/real-cropper.umd.js",
-  "module":"./dist/real-cropper.es.js",
+  "files": [
+    "dist"
+  ],
+  "main": "./dist/real-cropper.umd.js",
+  "module": "./dist/real-cropper.es.js",
   "keywords": [],
   "author": "Gabriel Luna",
   "license": "MIT",
